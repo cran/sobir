@@ -1,0 +1,15 @@
+9a535548d69f0a114fb1870e58507b04 *DESCRIPTION
+bebb4eb144e42dbea982797d8de2113f *NAMESPACE
+5f76418b71d3e47eb76632e1ffd0c789 *R/bpts_plot.R
+e9c67766f72e0af4b914cf60d0d1053a *R/calc_area.R
+058ce7437dae920524200f36ab6ec1c0 *R/extract_bpts.R
+cf04194d5fcc0cb7ba421a4c55fa1509 *R/perm_area.R
+a0be1c2789e5b02510305a0c59537598 *R/perm_plot.R
+2b8367e0ad4caf508d0baa27c66ff512 *README.md
+a7ea0bb72e44c175f3976088c3510988 *man/bpts_plot.Rd
+693ffa79910157a63a2af2b1615d544c *man/calc_area.Rd
+c64fea1c893ca9f260d665d666057457 *man/extract_bpts.Rd
+d17ae7726f9e99e4c20fcdbfc9822409 *man/perm_area.Rd
+248990e2000be31018ab0f7f03cc950f *man/perm_plot.Rd
+e7fe7f4a1faab2d448fee5adae0b8b13 *tests/testthat.R
+01e8dd557e9829c16d8f23748fa4c13b *tests/testthat/tests.R
